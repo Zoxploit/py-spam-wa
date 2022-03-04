@@ -40,7 +40,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : ./RanddSoft\n\t\t   Web : randdsoftindonesia.com')
+                   '''+W+'Creator : KenzoXploit\n\t\t   IG : bit.ly/KenzoxploitIG')
                    
 def RupaRupa():
 	print
@@ -194,18 +194,17 @@ def Tokped():
                    
                    
 def Spam():
-	os.system('clear')
-	print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
-	sleep(1.5)
-	os.system('xdg-open https://randdsoftindonesia.com/')
-	os.system('clear')
-	sleep(1.3)
+	os.system("clear")
+	print("\033[1;0m\033[1;41mFollow Akun IG Gua Om...\033[1;0m")
+	os.system("xdg-open https://bit.ly/KenzoxploitIG")
+	os.system("clear")
+	sleep(5)
 	Banner()
 	print
 	print
 	print(C+'MENU'+W+' :')
-	print(C+'\t['+W+'1'+C+']'+W+' SPAM TOKOPEDIA'+C+' ( '+H+'Aktif'+C+' )')
-	print(C+'\t['+W+'2'+C+']'+W+' SPAM RUPA-RUPA'+C+' ( '+M+'NonAktif'+C+' )')
+	print(C+'\t['+W+'+'+C+']'+W+' SPAM TOKOPEDIA'+C+' ( '+H+'Aktif'+C+' )')
+	print(C+'\t['+W+'+'+C+']'+W+' SPAM RUPA-RUPA'+C+' ( '+M+'NonAktif'+C+' )')
 	print
 	
 	try:
